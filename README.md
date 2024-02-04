@@ -11,30 +11,13 @@ Um aplicativo simples de lista de tarefas para ajudar você a organizar suas ati
 
 ## Instalação
 
-Para executar este projeto, você precisará ter o Flutter instalado em sua máquina. Siga as etapas abaixo para instalar o Flutter:
+Para executar este projeto, certifique-se de ter o [Flutter SDK](https://flutter.dev/docs/get-started/install) instalado. Clone o repositório:
 
-1. **Baixe o Flutter SDK:**
-   - Visite [flutter.dev](https://flutter.dev/docs/get-started/install) para baixar o Flutter SDK para o seu sistema operacional.
+`bash
+git clone https://github.com/seu-usuario/lista-de-tarefas-simples.git`
 
-2. **Extraia e Configure o Flutter:**
-   - Extraia o arquivo baixado e adicione o caminho do Flutter ao seu PATH.
-     - Exemplo no Linux/Mac:
-       ```bash
-       export PATH="$PATH:`<caminho-do-flutter>`/flutter/bin"
-       ```
-     - Exemplo no Windows:
-       ```powershell
-       [Environment]::SetEnvironmentVariable("Path", "$($env:Path);C:\caminho\para\flutter\bin", [EnvironmentVariableTarget]::User)
-       ```
+# Acesse a pasta do projeto
+`cd lista-de-tarefas-simples`
 
-3. **Verifique as Dependências:**
-   - Execute o comando `flutter doctor` para verificar se todas as dependências estão instaladas corretamente.
-   - Siga as instruções fornecidas pelo `flutter doctor` para resolver quaisquer problemas.
+Divirta-se organizando suas tarefas!
 
-4. **Clone o Repositório:**
-   ```bash
-   git clone https://github.com/seu-usuario/lista-de-tarefas-simples.git
-   cd lista-de-tarefas-simples
-
-5. Execute o Projeto:
-   ```flutter run ```
