@@ -32,23 +32,11 @@ Execute o aplicativo
 
 ## Uso
 
-- **Adicionar Tarefa:**
-  - Toque no campo de texto.
-  - Pressione "Enter" para adicionar uma nova tarefa à lista.
+- Toque no campo de texto, escreva sua tarefa e pressione o botão "+" para adicioná-la à lista.
+- Arraste a tarefa para o lado e toque no ícone de lixeira para excluí-la.
+- Limpe todas as tarefas de uma vez.
 
-- **Remover Tarefa:**
-  - Toque no ícone de lixeira ao lado da tarefa desejada para removê-la.
-
-- **Concluir Tarefa:**
-  - Toque no círculo à esquerda da tarefa para marcá-la como concluída.
-
-- **Reordenar Tarefas:**
-  - Arraste as tarefas para reorganizá-las conforme sua preferência.
-
-- **Visualizar Total de Tarefas Pendentes:**
-  - Observe o número total de tarefas pendentes na parte inferior da tela.
-
- Divirta-se organizando suas tarefas!
+Divirta-se organizando suas tarefas!
 
 
 
