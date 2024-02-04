@@ -1,8 +1,3 @@
-
-
-
-
-
 ## Instalação
 
 Para executar este projeto, certifique-se de ter o [Flutter SDK](https://flutter.dev/docs/get-started/install) instalado. Clone o repositório:
@@ -14,8 +9,6 @@ git clone https://github.com/seu-usuario/lista-de-tarefas-simples.git`
 `cd lista-de-tarefas-simples`
 
 Divirta-se organizando suas tarefas!
-
-
 
 # Lista de Tarefas Simples
 
