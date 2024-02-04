@@ -21,6 +21,7 @@ Este aplicativo oferece uma maneira fácil de organizar suas atividades diárias
 Flutter instalado
 Dependências listadas no arquivo `pubspec.yaml`
 
+
 Clone este repositório
 `git clone https://github.com/seu-usuario/contador_de_pessoas.git`
 
