@@ -36,6 +36,8 @@ Execute o aplicativo
 - Arraste a tarefa para o lado e toque no ícone de lixeira para excluí-la.
 - Limpe todas as tarefas de uma vez.
 
+
+
 Divirta-se organizando suas tarefas!
 
 
