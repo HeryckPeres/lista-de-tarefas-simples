@@ -35,6 +35,7 @@ Para executar este projeto, você precisará ter o Flutter instalado em sua máq
 4. **Clone o Repositório:**
    `bash
    git clone https://github.com/seu-usuario/lista-de-tarefas-simples.git`
+   
    `cd lista-de-tarefas-simples`
 
   Execute o Projeto:
