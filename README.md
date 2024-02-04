@@ -33,12 +33,12 @@ Para executar este projeto, você precisará ter o Flutter instalado em sua máq
    - Siga as instruções fornecidas pelo `flutter doctor` para resolver quaisquer problemas.
 
 4. **Clone o Repositório:**
-   ```bash
-   git clone https://github.com/seu-usuario/lista-de-tarefas-simples.git
-   cd lista-de-tarefas-simples```
+   `bash
+   git clone https://github.com/seu-usuario/lista-de-tarefas-simples.git`
+   `cd lista-de-tarefas-simples`
 
   Execute o Projeto:
-  ` ` ` flutter run ` ` `
+  ` flutter run `
 
   ## Divirta-se organizando suas tarefas!
 
