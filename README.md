@@ -23,7 +23,7 @@ Dependências listadas no arquivo `pubspec.yaml`
 
 
 Clone este repositório
-`https://github.com/HeryckPeres/lista-de-tarefas-simples.git`
+`https://github.com/HeryckPeres/lista-de-tarefas-simples-Flutter.git`
 
 Navegue até o diretório do projeto
 `cd contador_de_pessoas`
