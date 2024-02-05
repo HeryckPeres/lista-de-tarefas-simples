@@ -23,7 +23,7 @@ Dependências listadas no arquivo `pubspec.yaml`
 
 
 Clone este repositório
-`git clone https://github.com/seu-usuario/contador_de_pessoas.git`
+`https://github.com/HeryckPeres/lista-de-tarefas-simples.git`
 
 Navegue até o diretório do projeto
 `cd contador_de_pessoas`
